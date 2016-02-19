@@ -1,0 +1,1 @@
+colMessages = new Mongo.Collection("messages");
